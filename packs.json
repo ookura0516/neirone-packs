@@ -1,0 +1,49 @@
+{
+ "packs": [
+  {
+   "packId": "night_extra_v1",
+   "version": 1,
+   "lang": "all",
+   "title": {
+    "ja": "夜の追加環境音",
+    "en": "Extra night sounds"
+   },
+   "path": "night_extra_v1/",
+   "files": [
+    {
+     "name": "ambient_stream.ogg",
+     "sha256": "52c651257d7e2f078ff98420e22046b7fdb117b98e63a4b8756b8c5e203d7104",
+     "bytes": 892871,
+     "kind": "ambient",
+     "ambientId": "stream",
+     "title": {
+      "ja": "小川",
+      "en": "Stream"
+     }
+    },
+    {
+     "name": "ambient_distant_thunder.ogg",
+     "sha256": "9107e71d5c06d1f7c97fee90e077a653326201f8859f5b24c0dfbcb16374a6e4",
+     "bytes": 1268243,
+     "kind": "ambient",
+     "ambientId": "distant_thunder",
+     "title": {
+      "ja": "遠い雷雨",
+      "en": "Distant thunderstorm"
+     }
+    },
+    {
+     "name": "ambient_winter_wind.ogg",
+     "sha256": "bfd993d67ca546392cfdcd01477a08408e2f169f2c449f6559c0587775f92829",
+     "bytes": 785099,
+     "kind": "ambient",
+     "ambientId": "winter_wind",
+     "title": {
+      "ja": "冬の風",
+      "en": "Winter wind"
+     }
+    }
+   ]
+  }
+ ]
+}
